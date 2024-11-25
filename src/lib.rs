@@ -1,3 +1,4 @@
+#![feature(pointer_byte_offsets)]
 #![doc = include_str!("../README.md")]
 
 #[cfg(not(windows))]
